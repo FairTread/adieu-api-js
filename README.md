@@ -15,7 +15,7 @@ Unlike many "ad blocking" extensions, Adieu.io is a *service* that works within 
 
 ## Building with the API
 
-Use the API to programatically create images--called "rads"--which will show up in place of ads for users of the Adieu.io service.
+Use the API to programmatically create images--called "rads"--which will show up in place of ads for users of the Adieu.io service.
 
 In Adieu, "rads" are associated into collections called "boards", similar to the way that "pins" are added to "pinboards" in Pinterest. 
 
