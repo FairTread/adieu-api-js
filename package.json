@@ -1,0 +1,28 @@
+{
+  "name": "adieu-api",
+  "version": "0.1.0",
+  "description": "Adieu.io Repurposed Ads NodeJS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FairTread/adieu-api-js.git"
+  },
+  "keywords": [
+    "API",
+    "adieu",
+    "adblock",
+    "advertising",
+    "monetization",
+    "rads",
+    "ads"
+  ],
+  "author": "Matt Mankins <matt@fairtread.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.55.0",
+    "lodash": "~3.8.0"
+  }
+}
