@@ -11,7 +11,7 @@ Adieu.io is a service that lets users take back control of the ads they see whil
 browsing the web. Adieu.io enables web viewers to see things they want to see inside of ad units
 instead of things they don't--namely ads.
 
-Unlike many "ad blocking" extensions, Adieu.io is a *service* that works within (or on top of) the existing advertising ecosystem. You can think of Adieu as extending advertising to add a consumer-customization layer. Adieu consumers directly buy their own ads (automatically, for a fluctuating market rate that is usually a fraction of a penny) and control the content shown within the advertising "boxes".
+Unlike many "ad blocking" extensions, content producers retain their revenue stream from Adieu users. Adieu.io is a *service* that works within (or on top of) the existing advertising ecosystem. You can think of Adieu as extending advertising to add a consumer-customization layer. Adieu consumers directly buy their own ads (automatically, for a fluctuating market rate that is usually a fraction of a penny) and control the content shown within the advertising "boxes".
 
 ## Building with the API
 
