@@ -1,0 +1,20 @@
+
+name: Kudos for Code
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  kudos:
+    name: Semicolons Kudos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: LoremLabs/kudos-for-code-action@latest
+        with:
+          search-dir: "."
+          destination: "artifact"
+          generate-nomerges: true
+          generate-validemails: true
+          generate-limitdepth: 2
